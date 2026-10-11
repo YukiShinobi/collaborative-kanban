@@ -60,3 +60,10 @@ A collaborative board gets interesting when two people can change the same state
 ---
 
 <div align="center"><sub>YukiShinobi // state should stay understandable even when multiple people touch it.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A collaborative board-state model. Production multiuser use requires authenticated access, durable persistence, conflict detection and activity auditing.
+
+Related projects: [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE). Documentation is not an assertion of a verified live deployment.
